@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;background-color: rgb(149, 154, 163);
+}
+#app{
+    background-color: silver;
+    border-radius: 5px;
+    margin: 50px;
+    
+}
+#header{
+    padding: 30px;
+}
+#content{
+    padding: 30px;
+    font-size: 2rem;
+}
